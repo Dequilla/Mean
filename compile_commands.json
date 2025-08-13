@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/edwin/Dev/Mean/build",
+  "command": "/usr/bin/c++ -D_RELEASE -D__unix__ -I/home/edwin/Dev/Mean/include  -std=gnu++2a -std=gnu++20 -o CMakeFiles/mean.dir/src/mean.cpp.o -c /home/edwin/Dev/Mean/src/mean.cpp",
+  "file": "/home/edwin/Dev/Mean/src/mean.cpp",
+  "output": "CMakeFiles/mean.dir/src/mean.cpp.o"
+},
+{
+  "directory": "/home/edwin/Dev/Mean/build/test",
+  "command": "/usr/bin/c++ -D_RELEASE -D__unix__ -I/home/edwin/Dev/Mean/test/include -I/home/edwin/Dev/Mean/include  -std=gnu++2a -std=gnu++2a -std=gnu++20 -o CMakeFiles/mean-test.dir/src/main.cpp.o -c /home/edwin/Dev/Mean/test/src/main.cpp",
+  "file": "/home/edwin/Dev/Mean/test/src/main.cpp",
+  "output": "test/CMakeFiles/mean-test.dir/src/main.cpp.o"
+}
+]
