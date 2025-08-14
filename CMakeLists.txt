@@ -9,6 +9,7 @@ set(
     SRC_FILES
 
     "mean.cpp"
+    "types.cpp"
 )
 
 project(

@@ -1,7 +1,5 @@
-#include "mean.hpp"
+#include "mean/mean.hpp"
 
-namespace mean {
+#include <iostream>
 
-void test() { std::cout << "Hello mean!" << std::endl; }
-
-} // namespace mean
+namespace mean {} // namespace mean
